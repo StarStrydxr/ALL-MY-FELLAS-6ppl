@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 997
   m_ShowMode: 4
-  m_Title: Project
+  m_Title: Scene
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 37
+  controlID: 90
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -321,7 +321,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scripts
+    - Assets/Dylan
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -329,7 +329,7 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scripts
+  - Assets/Dylan
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\60001684\OneDrive - Northern Regional College\Level
     3 IT\Game\ALL-MY-FELLAS\ALL-MY-FELLAS-6ppl
@@ -337,9 +337,9 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 16060000
-    m_LastClickedID: 1558
-    m_ExpandedIDs: 000000004e41000000ca9a3bffffff7f
+    m_SelectedIDs: 28410000
+    m_LastClickedID: 16680
+    m_ExpandedIDs: 000000002041000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -367,7 +367,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000004e410000
+    m_ExpandedIDs: 0000000020410000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -507,9 +507,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
+      m_SelectedIDs: 72eaffff
       m_LastClickedID: 0
-      m_ExpandedIDs: 0afaffff
+      m_ExpandedIDs: 18f9ffff60f9ffffaefaffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -863,9 +863,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 1255.7933, y: 390.75995, z: 2168.6824}
+    m_Target: {x: 1725.3303, y: 429.50446, z: 3360.116}
     speed: 2
-    m_Value: {x: 1255.7933, y: 390.75995, z: 2168.6824}
+    m_Value: {x: 1725.3303, y: 429.50446, z: 3360.116}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -887,10 +887,10 @@ MonoBehaviour:
       m_Fade:
         m_Target: 0
         speed: 2
-        m_Value: 0
+        m_Value: 1
       m_Color: {r: 0.5, g: 0.5, b: 0.5, a: 0.4}
       m_Pivot: {x: 0, y: 0, z: 0}
-      m_Size: {x: 0, y: 0}
+      m_Size: {x: 1, y: 1}
     yGrid:
       m_Fade:
         m_Target: 1
@@ -911,13 +911,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.004034323, y: 0.9884111, z: 0.026693575, w: -0.14938354}
+    m_Target: {x: -0.051062368, y: -0.39010435, z: -0.021673225, w: 0.91909975}
     speed: 2
-    m_Value: {x: 0.0040343218, y: 0.9884108, z: 0.026693566, w: -0.14938349}
+    m_Value: {x: -0.049651906, y: -0.39151418, z: -0.021162514, w: 0.91858774}
   m_Size:
-    m_Target: 486.30933
+    m_Target: 1058.8721
     speed: 2
-    m_Value: 486.30933
+    m_Value: 1058.8721
   m_Ortho:
     m_Target: 1
     speed: 2
